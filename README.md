@@ -4,5 +4,6 @@ new-featureで変更
 rebase-practiceブランチで更新
 rebase用
 conflict
-stash練習
+stash練習(2nd
+)
 
